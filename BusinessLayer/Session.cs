@@ -13,6 +13,6 @@
 		{
 			Title = title;
 			Description = description;
-		}
+		} 
 	}
 }
